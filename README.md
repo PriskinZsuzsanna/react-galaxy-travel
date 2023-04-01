@@ -15,5 +15,7 @@ React landing Page
 
 
 ### Screenshot
+![galaxy](https://user-images.githubusercontent.com/121173949/229289618-15b41bd1-e746-4ffb-8688-3243a8e246ec.png)
+
 
 
