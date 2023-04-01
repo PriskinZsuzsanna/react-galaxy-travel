@@ -7,8 +7,13 @@ React landing Page
 - React-router-dom
 - HTML
 - CSS
+- React-Icons
+- Hooks
 
 ### What I learned 
+- Routing with react
+- Using react icons
+- Conditonals in react
 
 
 ### Links
